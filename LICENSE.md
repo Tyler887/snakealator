@@ -1,6 +1,7 @@
-                                 Apache License
-                          Version 2.0, January 2004
-                       http://www.apache.org/licenses/
+ ## Apache License 2.0
+
+**Please follow this licence before using Snake-a-Lator. Failure to do so may cause you to break US copyright laws. (This is not legal advice.)
+
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
