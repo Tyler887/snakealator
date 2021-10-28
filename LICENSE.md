@@ -1,6 +1,6 @@
  ## Apache License 2.0
 
-**Please follow this licence before using Snake-a-Lator. Failure to do so may cause you to break US copyright laws. (This is not legal advice.)
+**Please follow this licence before using Snake-a-Lator. Failure to do so may cause you to break US copyright laws. (This is not legal advice.)**
 
    1. Definitions.
 
