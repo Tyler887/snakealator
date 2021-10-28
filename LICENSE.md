@@ -1,9 +1,6 @@
-                                 **Apache License**
-                           **Version 2.0, January 2004**
-                        **http://www.apache.org/licenses/**
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
+                                 Apache License
+                          Version 2.0, January 2004
+                       http://www.apache.org/licenses/
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
@@ -186,7 +183,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2021 @Tyler887
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
